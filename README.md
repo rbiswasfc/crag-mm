@@ -1,6 +1,17 @@
 #  Meta CRAG-MM Challenge 2025
 
-This repo contains the first-place solution from `Team_NVIDIA` for the [Meta CRAG-MM Challenge 2025](https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025) - `Task 2: Multi-source Augmentation`. The following sections provide information about dependencies, training procedures, and data generation methods.
+This repo contains the first-place solution from `Team_NVIDIA` for the [Meta CRAG-MM Challenge 2025](https://www.aicrowd.com/challenges/meta-crag-mm-challenge-2025) - `Task 2: Multi-source Augmentation`. 
+
+### Team Members
+`Team_NVIDIA` consists of the following members:
+- Chris Deotte (cdeotte@nvidia.com)
+- Gilberto Titericz Jr (gtitericz@nvidia.com)
+- Kazuki Onodera (konodera@nvidia.com)
+- Ahmet Erdem (aerdem@nvidia.com)
+- Raja Biswas (rabiswas@nvidia.com)
+
+The following sections provide information about dependencies, training procedures, and data generation methods.
+
 
 # Setup
 We used `8xA100` GPUs for compute. Please run the following commands to setup the environment using conda:
